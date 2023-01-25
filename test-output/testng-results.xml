@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PetSuite" duration-ms="4684" started-at="2023-01-25T06:16:24 CST" finished-at="2023-01-25T06:16:28 CST">
+    <groups>
+    </groups>
+    <test name="PetTests" duration-ms="4684" started-at="2023-01-25T06:16:24 CST" finished-at="2023-01-25T06:16:28 CST">
+      <class name="api.Test2.UserTests2">
+        <test-method status="PASS" signature="setupData()[pri:0, instance:api.Test2.UserTests2@394e1a0f]" name="setupData" is-config="true" duration-ms="527" started-at="2023-01-25T06:16:24 CST" finished-at="2023-01-25T06:16:25 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method status="PASS" signature="testPostUser()[pri:1, instance:api.Test2.UserTests2@394e1a0f]" name="testPostUser" duration-ms="2396" started-at="2023-01-25T06:16:25 CST" finished-at="2023-01-25T06:16:27 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method status="PASS" signature="testGetUserByName()[pri:2, instance:api.Test2.UserTests2@394e1a0f]" name="testGetUserByName" duration-ms="374" started-at="2023-01-25T06:16:27 CST" finished-at="2023-01-25T06:16:27 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method status="PASS" signature="updataeUserByName()[pri:3, instance:api.Test2.UserTests2@394e1a0f]" name="updataeUserByName" duration-ms="734" started-at="2023-01-25T06:16:27 CST" finished-at="2023-01-25T06:16:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updataeUserByName -->
+        <test-method status="PASS" signature="testDeleteUserByName()[pri:4, instance:api.Test2.UserTests2@394e1a0f]" name="testDeleteUserByName" duration-ms="352" started-at="2023-01-25T06:16:28 CST" finished-at="2023-01-25T06:16:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserByName -->
+      </class> <!-- api.Test2.UserTests2 -->
+    </test> <!-- PetTests -->
+  </suite> <!-- PetSuite -->
+</testng-results>
